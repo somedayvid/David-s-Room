@@ -1,0 +1,36 @@
+header {
+  border-bottom: 1px solid #ccc;
+  background-color: #f0ead6;
+  margin: -10px;
+}
+
+body{
+    background-image: url('badges/stars.gif');
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 20px;
+}
+
+td.main{
+    padding: 1vw;
+}
+
+.sidebar{
+    background-color: red;
+    width: 10vw;
+    border-radius: 10px;
+}
+
+.main{
+    background-color: #f0ead6 ;
+    width: 40vw;
+    border-radius: 10px;
+
+}
+
+.about-me{
+    margin: 0px;
+}
